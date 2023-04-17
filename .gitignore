@@ -350,3 +350,4 @@ MigrationBackup/
 .ionide/
 /output
 
+/fse-integration/anto-cns-cert.cer
